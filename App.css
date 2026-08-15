@@ -1,0 +1,128 @@
+.text-color1{
+  color: #FF5106;
+}
+.text-color3{
+   color: #031468;
+}
+.bg-color1{
+  background:#FF5106;
+}
+.text-color2{
+  background-color: white;
+}
+.bg-color2{
+  background-color: white;
+}
+.menu ul li a:hover{
+       color:#FF5106;
+}
+.text{
+  font-size: 60px;
+}
+.hero{
+  min-height: 2500px;
+}
+.herotitle{
+  margin-top:50px;
+  color: #031468;
+}
+.image-fluid{
+   margin-right: 20px;
+}
+img{
+   margin-right: 20px;
+   height: 20px;
+   box-sizing: border-box;
+}
+.text1{
+  margin-top: 10px;
+}
+.Explore{
+     background-color: #FF5106;
+     width: 150px;
+     color: white;
+     text-align: center;
+     height: 35px;
+
+}
+.goal{
+  color: #031468;
+  font-size: 20px;
+ text-align: center;
+  
+}
+.goal1{
+  margin-top: 20px;
+  background-color: #dde1f7;
+}
+.text2{
+  margin-top: 10px;
+}
+.goal1{
+  text-align: center;
+}
+.card-container{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.card{
+  width:250px;
+  text-align: center;
+   box-shadow: 1px 1px 10px gray;
+}
+.card:hover{
+  transition: 1s;
+  transform: scale(1.1);
+}
+.wrapper .row{
+  gap:25px;
+  margin-top: 30px;
+  width: 210px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  height: 200px;
+  
+  
+}
+.paragraph{
+   color:#FF5106;
+   text-align: center;
+   font-size: 20px;
+   font: bold;
+}
+.provide{
+     text-align: center;
+     font-size: 30px;
+     margin-top: 10px;
+}
+.provide1{
+  color: #FF5106;
+}
+.text1{
+  margin-top: 10px;
+  font-size: 21px;
+}
+.Help{
+  font-size: 23px;
+  color: #FF5106;
+}
+.goal5{
+  background-color:white;
+  margin-top: 80px;
+  text-align: center;
+  color: #FF5106;
+  font-style: italic;
+  font: bold;
+}
+.check{
+  color: #031468;
+}
+.card1{
+  color: #031468;
+}
